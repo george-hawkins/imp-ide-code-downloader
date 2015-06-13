@@ -35,7 +35,7 @@ function verifyToken(token) {
 }
 
 function getLoginDetails() {
-    console.log('Enter your Imp IDE email address and password');
+    console.log('Enter your Imp IDE email (or username) address and password');
 
     rl.question('Email: ', function (email) {
         rl.question('Password: ', function (password) {

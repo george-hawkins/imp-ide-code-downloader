@@ -3,12 +3,12 @@ Imp IDE code downloader
 
 This tool requires [Node.js](https://nodejs.org/download/) to already be installed.
 
-To download the code for one of your Imp IDE models just enter your Imp IDE email address and password and the name of the model you want to download.
+To download the code for one of your Imp IDE models just enter your Imp IDE email address (or username) and password and the name of the model you want to download.
 
 The following shows the tool in action:
 
     $ node get-code.js 
-    Enter your Imp IDE email address and password.
+    Enter your Imp IDE email address (or username) and password.
     Email: foo@bar.com
     Password: foobar
     Save token to skip login step next time? [y] 
