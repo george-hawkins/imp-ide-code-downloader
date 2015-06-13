@@ -1,5 +1,5 @@
-Imp IDE code fetcher
-====================
+Imp IDE code downloader
+=======================
 
 This tool requires [Node.js](https://nodejs.org/download/) to already be installed.
 
